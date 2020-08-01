@@ -5,3 +5,5 @@ Javascript.
 One of the most important lessons that I learned while creating the project was to seperate your structure, presentation, and functionality of a website.
 
 Image of the website:
+
+![std_image](ProjectImage/BlockChallengeWebsite.png)
